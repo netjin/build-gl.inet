@@ -17,6 +17,7 @@ packages:
   - luci-app-wireguard
   - luci-app-uugamebooster
   - luci-app-openclash
+  - luci-app-passwall
   - wireguard
   - luci-app-eqos
   - wireguard-tools
